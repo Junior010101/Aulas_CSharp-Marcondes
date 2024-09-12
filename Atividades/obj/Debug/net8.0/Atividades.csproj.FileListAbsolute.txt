@@ -1,0 +1,14 @@
+C:\Users\Marcondes\OneDrive\Documentos\Aulas_CS--Marcondes\Atividades\bin\Debug\net8.0\Atividades.exe
+C:\Users\Marcondes\OneDrive\Documentos\Aulas_CS--Marcondes\Atividades\bin\Debug\net8.0\Atividades.deps.json
+C:\Users\Marcondes\OneDrive\Documentos\Aulas_CS--Marcondes\Atividades\bin\Debug\net8.0\Atividades.runtimeconfig.json
+C:\Users\Marcondes\OneDrive\Documentos\Aulas_CS--Marcondes\Atividades\bin\Debug\net8.0\Atividades.dll
+C:\Users\Marcondes\OneDrive\Documentos\Aulas_CS--Marcondes\Atividades\bin\Debug\net8.0\Atividades.pdb
+C:\Users\Marcondes\OneDrive\Documentos\Aulas_CS--Marcondes\Atividades\obj\Debug\net8.0\Atividades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcondes\OneDrive\Documentos\Aulas_CS--Marcondes\Atividades\obj\Debug\net8.0\Atividades.AssemblyInfoInputs.cache
+C:\Users\Marcondes\OneDrive\Documentos\Aulas_CS--Marcondes\Atividades\obj\Debug\net8.0\Atividades.AssemblyInfo.cs
+C:\Users\Marcondes\OneDrive\Documentos\Aulas_CS--Marcondes\Atividades\obj\Debug\net8.0\Atividades.csproj.CoreCompileInputs.cache
+C:\Users\Marcondes\OneDrive\Documentos\Aulas_CS--Marcondes\Atividades\obj\Debug\net8.0\Atividades.dll
+C:\Users\Marcondes\OneDrive\Documentos\Aulas_CS--Marcondes\Atividades\obj\Debug\net8.0\refint\Atividades.dll
+C:\Users\Marcondes\OneDrive\Documentos\Aulas_CS--Marcondes\Atividades\obj\Debug\net8.0\Atividades.pdb
+C:\Users\Marcondes\OneDrive\Documentos\Aulas_CS--Marcondes\Atividades\obj\Debug\net8.0\Atividades.genruntimeconfig.cache
+C:\Users\Marcondes\OneDrive\Documentos\Aulas_CS--Marcondes\Atividades\obj\Debug\net8.0\ref\Atividades.dll
