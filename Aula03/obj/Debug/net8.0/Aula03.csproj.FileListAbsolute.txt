@@ -1,0 +1,15 @@
+C:\Users\Marcondes\OneDrive\Documentos\Aulas_CS--Marcondes\Aula03\bin\Debug\net8.0\Aula03.exe
+C:\Users\Marcondes\OneDrive\Documentos\Aulas_CS--Marcondes\Aula03\bin\Debug\net8.0\Aula03.deps.json
+C:\Users\Marcondes\OneDrive\Documentos\Aulas_CS--Marcondes\Aula03\bin\Debug\net8.0\Aula03.runtimeconfig.json
+C:\Users\Marcondes\OneDrive\Documentos\Aulas_CS--Marcondes\Aula03\bin\Debug\net8.0\Aula03.dll
+C:\Users\Marcondes\OneDrive\Documentos\Aulas_CS--Marcondes\Aula03\bin\Debug\net8.0\Aula03.pdb
+C:\Users\Marcondes\OneDrive\Documentos\Aulas_CS--Marcondes\Aula03\obj\Debug\net8.0\Aula03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcondes\OneDrive\Documentos\Aulas_CS--Marcondes\Aula03\obj\Debug\net8.0\Aula03.AssemblyInfoInputs.cache
+C:\Users\Marcondes\OneDrive\Documentos\Aulas_CS--Marcondes\Aula03\obj\Debug\net8.0\Aula03.AssemblyInfo.cs
+C:\Users\Marcondes\OneDrive\Documentos\Aulas_CS--Marcondes\Aula03\obj\Debug\net8.0\Aula03.csproj.CoreCompileInputs.cache
+C:\Users\Marcondes\OneDrive\Documentos\Aulas_CS--Marcondes\Aula03\obj\Debug\net8.0\Aula03.sourcelink.json
+C:\Users\Marcondes\OneDrive\Documentos\Aulas_CS--Marcondes\Aula03\obj\Debug\net8.0\Aula03.dll
+C:\Users\Marcondes\OneDrive\Documentos\Aulas_CS--Marcondes\Aula03\obj\Debug\net8.0\refint\Aula03.dll
+C:\Users\Marcondes\OneDrive\Documentos\Aulas_CS--Marcondes\Aula03\obj\Debug\net8.0\Aula03.pdb
+C:\Users\Marcondes\OneDrive\Documentos\Aulas_CS--Marcondes\Aula03\obj\Debug\net8.0\Aula03.genruntimeconfig.cache
+C:\Users\Marcondes\OneDrive\Documentos\Aulas_CS--Marcondes\Aula03\obj\Debug\net8.0\ref\Aula03.dll
