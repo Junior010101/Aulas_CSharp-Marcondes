@@ -1,0 +1,14 @@
+C:\Users\Marcondes\OneDrive\Documentos\Exercícios_Csharp-Marcondes\Exercicio_N°5\bin\Debug\net8.0\Exercicio_N°5.exe
+C:\Users\Marcondes\OneDrive\Documentos\Exercícios_Csharp-Marcondes\Exercicio_N°5\bin\Debug\net8.0\Exercicio_N°5.deps.json
+C:\Users\Marcondes\OneDrive\Documentos\Exercícios_Csharp-Marcondes\Exercicio_N°5\bin\Debug\net8.0\Exercicio_N°5.runtimeconfig.json
+C:\Users\Marcondes\OneDrive\Documentos\Exercícios_Csharp-Marcondes\Exercicio_N°5\bin\Debug\net8.0\Exercicio_N°5.dll
+C:\Users\Marcondes\OneDrive\Documentos\Exercícios_Csharp-Marcondes\Exercicio_N°5\bin\Debug\net8.0\Exercicio_N°5.pdb
+C:\Users\Marcondes\OneDrive\Documentos\Exercícios_Csharp-Marcondes\Exercicio_N°5\obj\Debug\net8.0\Exercicio_N°5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcondes\OneDrive\Documentos\Exercícios_Csharp-Marcondes\Exercicio_N°5\obj\Debug\net8.0\Exercicio_N°5.AssemblyInfoInputs.cache
+C:\Users\Marcondes\OneDrive\Documentos\Exercícios_Csharp-Marcondes\Exercicio_N°5\obj\Debug\net8.0\Exercicio_N°5.AssemblyInfo.cs
+C:\Users\Marcondes\OneDrive\Documentos\Exercícios_Csharp-Marcondes\Exercicio_N°5\obj\Debug\net8.0\Exercicio_N°5.csproj.CoreCompileInputs.cache
+C:\Users\Marcondes\OneDrive\Documentos\Exercícios_Csharp-Marcondes\Exercicio_N°5\obj\Debug\net8.0\Exercicio_N°5.dll
+C:\Users\Marcondes\OneDrive\Documentos\Exercícios_Csharp-Marcondes\Exercicio_N°5\obj\Debug\net8.0\refint\Exercicio_N°5.dll
+C:\Users\Marcondes\OneDrive\Documentos\Exercícios_Csharp-Marcondes\Exercicio_N°5\obj\Debug\net8.0\Exercicio_N°5.pdb
+C:\Users\Marcondes\OneDrive\Documentos\Exercícios_Csharp-Marcondes\Exercicio_N°5\obj\Debug\net8.0\Exercicio_N°5.genruntimeconfig.cache
+C:\Users\Marcondes\OneDrive\Documentos\Exercícios_Csharp-Marcondes\Exercicio_N°5\obj\Debug\net8.0\ref\Exercicio_N°5.dll

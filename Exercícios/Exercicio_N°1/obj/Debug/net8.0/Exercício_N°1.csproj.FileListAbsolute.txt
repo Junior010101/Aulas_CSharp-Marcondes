@@ -1,0 +1,14 @@
+C:\Users\Marcondes\Downloads\Exercícios_Csharp-Marcondes\Exercício_N°1\bin\Debug\net8.0\Exercício_N°1.exe
+C:\Users\Marcondes\Downloads\Exercícios_Csharp-Marcondes\Exercício_N°1\bin\Debug\net8.0\Exercício_N°1.deps.json
+C:\Users\Marcondes\Downloads\Exercícios_Csharp-Marcondes\Exercício_N°1\bin\Debug\net8.0\Exercício_N°1.runtimeconfig.json
+C:\Users\Marcondes\Downloads\Exercícios_Csharp-Marcondes\Exercício_N°1\bin\Debug\net8.0\Exercício_N°1.dll
+C:\Users\Marcondes\Downloads\Exercícios_Csharp-Marcondes\Exercício_N°1\bin\Debug\net8.0\Exercício_N°1.pdb
+C:\Users\Marcondes\Downloads\Exercícios_Csharp-Marcondes\Exercício_N°1\obj\Debug\net8.0\Exercício_N°1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcondes\Downloads\Exercícios_Csharp-Marcondes\Exercício_N°1\obj\Debug\net8.0\Exercício_N°1.AssemblyInfoInputs.cache
+C:\Users\Marcondes\Downloads\Exercícios_Csharp-Marcondes\Exercício_N°1\obj\Debug\net8.0\Exercício_N°1.AssemblyInfo.cs
+C:\Users\Marcondes\Downloads\Exercícios_Csharp-Marcondes\Exercício_N°1\obj\Debug\net8.0\Exercício_N°1.csproj.CoreCompileInputs.cache
+C:\Users\Marcondes\Downloads\Exercícios_Csharp-Marcondes\Exercício_N°1\obj\Debug\net8.0\Exercício_N°1.dll
+C:\Users\Marcondes\Downloads\Exercícios_Csharp-Marcondes\Exercício_N°1\obj\Debug\net8.0\refint\Exercício_N°1.dll
+C:\Users\Marcondes\Downloads\Exercícios_Csharp-Marcondes\Exercício_N°1\obj\Debug\net8.0\Exercício_N°1.pdb
+C:\Users\Marcondes\Downloads\Exercícios_Csharp-Marcondes\Exercício_N°1\obj\Debug\net8.0\Exercício_N°1.genruntimeconfig.cache
+C:\Users\Marcondes\Downloads\Exercícios_Csharp-Marcondes\Exercício_N°1\obj\Debug\net8.0\ref\Exercício_N°1.dll
